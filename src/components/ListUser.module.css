@@ -1,0 +1,9 @@
+.list-user{
+    border: 2px solid #a39f9f;
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.list-user:hover{
+    background-color:#a7a7a7;
+}

@@ -1,0 +1,33 @@
+.modal-container{
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(8, 91, 158, 0.63) !important;
+}
+
+    .modal{
+        font-size: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 500px;
+        max-width: 100%;
+        margin: auto;
+        margin-top: 30vh;
+        background-color: rgb(69, 176, 226);
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px #0f32428f;
+    }
+    .title{
+        font-size: 25px;
+        color:rgb(40, 13, 66);
+        text-align: center;
+        padding: 10px;
+        
+    }
+
+    .body{
+        font-size: 20px;
+        padding: 10px;
+    }

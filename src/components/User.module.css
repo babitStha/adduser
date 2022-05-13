@@ -1,0 +1,10 @@
+.user{
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+@media (max-width: 480px) {
+    .user {
+      width: 90%;
+    }
+  }
